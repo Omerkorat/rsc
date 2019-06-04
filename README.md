@@ -1,2 +1,1 @@
-# rsc
-A rational model for semantic change
+# To be updated
